@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CuponesMVP</string>
+    <string name="API_KEY">25fb8437ab8853357111dc2b6f29cfb0</string>
+    <string name="title">Titulo del cupon y oferta</string>
+    <string name="id">Identificación</string>
+    <string name="tienda">Tienda del cupon</string>
+    <string name="estado">Estado del cupon</string>
+    <string name="tipo">Tipo de oferta</string>
+    <string name="link">Link de la oferta</string>
+    <string name="overview">overview</string>
+</resources>
