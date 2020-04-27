@@ -7,5 +7,6 @@
     <string name="estado">Estado del cupon</string>
     <string name="tipo">Tipo de oferta</string>
     <string name="link">Link de la oferta</string>
+    <string name="fecha">Fecha de la oferta</string>
     <string name="overview">overview</string>
 </resources>

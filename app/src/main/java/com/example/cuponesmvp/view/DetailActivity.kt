@@ -33,6 +33,7 @@ class DetailActivity : AppCompatActivity() , DetailView{
         tv_tienda.text = "Tienda: " + cupon.store
         tv_oferta.text = "Tipo de oferta: " + cupon.offerValue
         tv_link.text = "Link: " + cupon.smartLink
+        tv_fecha.text = cupon.endDate
 
         if(!cupon.imageUrl.isNullOrEmpty()) {
             Picasso.get().load(cupon.imageUrl).into(iv_picture)
